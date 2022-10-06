@@ -1,0 +1,19 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 1em;
+  label {
+    margin: 5px;
+    padding: 0 .5em;
+    font-size: 1em;
+  }
+  input {
+    color: #030F26;
+    padding: .2em;
+  }
+  button {
+    width: max-content;
+    margin: 0 auto;
+    margin-top: .5em;
+  }
+}
